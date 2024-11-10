@@ -1,0 +1,117 @@
+{
+  "construction_sites": {
+    "Jayprakash_Heights": {
+      "location": "Jankar Nagar, Y Chowk, Near Soni City, Damani Nagar, Solapur-413001",
+      "coordinates": {
+        "latitude": 17.6599,
+        "longitude": 75.9064
+      },
+      "rera_number": "P52600030418",
+      "flats": {
+        "types": ["1.5 BHK", "2 BHK"],
+        "count": 45
+      },
+      "shops": {
+        "size_range": "250 - 500 SQFT"
+      },
+      "building_infrastructure": "B+G+8",
+      "amenities": [
+        {
+          "name": "24x7 CCTV Surveillance",
+          "icon": "https://example.com/icons/cctv.png"
+        },
+        {
+          "name": "Two Floor Car Parking",
+          "icon": "https://example.com/icons/car_parking.png"
+        },
+        {
+          "name": "Separate Underwater Tank for Borewell & Corporation",
+          "icon": "https://example.com/icons/water_tank.png"
+        },
+        {
+          "name": "Common Overhead Water Tank",
+          "icon": "https://example.com/icons/overhead_tank.png"
+        },
+        {
+          "name": "Driveway",
+          "icon": "https://example.com/icons/driveway.png"
+        }
+      ],
+      "specifications": {
+        "structure": "Earthquake resistant RCC Structure with 6”& 4” External & Internal wall respectively.",
+        "windows": "Two Track Aluminium Sliding Window with M.S Safety Grills.",
+        "plumbing": "Concealed Plumbing with Standard Quality Pipes & Accessories with Excellent Bath Fitting.",
+        "plaster": {
+          "internal": "Gypsum Plaster for Ceiling/Neeru Finish Cement Plaster.",
+          "external": "Sand Face Cement Plaster."
+        },
+        "toilet": {
+          "bath_wc": "Combined with Glazed Ceramic Tiles, Dado Up to Lintel Level.",
+          "basin": "One Wash Basin at Appropriate Place."
+        },
+        "paint": {
+          "internal": "Oil Bound Distemper (OBD) for Internal Walls.",
+          "external": "Apex & Ace for External Walls.",
+          "overhead_tank": "Ace Paint for Overhead Water Tank & Parapet Walls."
+        },
+        "electrical": "Concealed Copper Wiring, Adequate Point. TV Point, Master Bedroom AC Point.",
+        "kitchen": {
+          "platform": "Straight Cooking Platform in Granite with Stainless Steel Sink & Sill Level.",
+          "dado": "Glazed Dado Tiles on Adjacent Wall.",
+          "provisions": ["Exhaust fan", "16 A Fridge point", "Mixer point", "Oven point", "Water Purifier Point"]
+        },
+        "flooring": {
+          "living_dining_bedrooms_kitchen": "Vitrified Tiles with Skirting.",
+          "attached_toilet": "Glazed Dado Tiles.",
+          "master_bedroom": "Wooden Finish Tiles.",
+          "utility_balcony": "Anti-Skid Tiles."
+        }
+      },
+      "nearby_locations": {
+        "schools": [
+          {"name": "Mahesh English School", "distance": "600 M", "time": "2 min"},
+          {"name": "St. Joseph High School", "distance": "2.6 KM", "time": "8 min"},
+          {"name": "Raj Memorial Medium", "distance": "2.4 KM", "time": "7 min"},
+          {"name": "Siddheshwar School", "distance": "2.8 KM", "time": "8 min"},
+          {"name": "P. S. English School", "distance": "3.0 KM", "time": "10 min"},
+          {"name": "Central Railway School", "distance": "3.9 KM", "time": "10 min"}
+        ],
+        "hospitals": [
+          {"name": "CNS Hospital", "distance": "1.6 KM", "time": "5 min"},
+          {"name": "Jagtap Hospital", "distance": "1.0 KM", "time": "5 min"},
+          {"name": "ESI Hospital", "distance": "500 M", "time": "2 min"},
+          {"name": "Suratkal Hospital", "distance": "1.0 KM", "time": "5 min"},
+          {"name": "Narmada Hospital", "distance": "2.7 KM", "time": "8 min"},
+          {"name": "City Hospital", "distance": "4.4 KM", "time": "11 min"},
+          {"name": "Baldawa Hospital", "distance": "2.5 KM", "time": "8 min"},
+          {"name": "Shashwat Hospital", "distance": "1.4 KM", "time": "5 min"}
+        ],
+        "attractions": [
+          {"name": "Gold Gym", "distance": "600 M", "time": "6 min"},
+          {"name": "Value Mandi", "distance": "900 M", "time": "8 min"},
+          {"name": "Oasis Mall", "distance": "1.8 KM", "time": "10 min"},
+          {"name": "Park Choupati", "distance": "3.3 KM", "time": "11 min"},
+          {"name": "Hom Maidan", "distance": "2.8 KM", "time": "12 min"},
+          {"name": "Street Art(HD School)", "distance": "2.9 KM", "time": "12 min"},
+          {"name": "Killa Bagicha", "distance": "2.9 KM", "time": "9 min"},
+          {"name": "Siddheshwar Temple", "distance": "4.3 KM", "time": "14 min"}
+        ]
+      },
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/images%2Fbuilding1.jpg?alt=media",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/images%2Fbuilding2.jpg?alt=media"
+      ],
+      "cutsections": [
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/cutsections%2Fcutsection1.jpg?alt=media",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/cutsections%2Fcutsection2.jpg?alt=media"
+      ],
+      "2d_images": [
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/2d_images%2F2dimage1.jpg?alt=media",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/2d_images%2F2dimage2.jpg?alt=media"
+      ],
+      "contact_info": {
+        "email": "contact@vijayconstructionsolapur.com",
+        "website": "www.vijayconstructionsolapur.com"
+      }
+    }
+  }}
