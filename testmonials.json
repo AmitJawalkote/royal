@@ -3,7 +3,7 @@
   {
     "id": 1,
     "name": "John Doe",
-    "photo_url": "https://example.com/images/john_doe.jpg",
+    "photo_url": "https://amitjawalkote.github.io/royal/images/ts1.png",
     "flat_number": "A-101",
     "block": "Ascent Tower",
     "testimonial": "The experience of buying a flat from Ascent Tower was exceptional. The team was professional, and the amenities are top-notch. Highly recommended!",
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "name": "Jane Smith",
-    "photo_url": "https://example.com/images/jane_smith.jpg",
+    "photo_url": "https://amitjawalkote.github.io/royal/images/ts2.png",
     "flat_number": "B-202",
     "block": "Ascent Tower",
     "testimonial": "The process was smooth and transparent. The quality of construction is excellent, and the location is very convenient for my family.",
@@ -23,7 +23,7 @@
   {
     "id": 3,
     "name": "Rajesh Kumar",
-    "photo_url": "https://example.com/images/rajesh_kumar.jpg",
+    "photo_url": "https://amitjawalkote.github.io/royal/images/ts3.png",
     "flat_number": "C-303",
     "block": "Ascent Tower",
     "testimonial": "I’m impressed with the timely delivery and the customer service. It feels like home already!",
@@ -33,7 +33,7 @@
   {
     "id": 4,
     "name": "Emily Davis",
-    "photo_url": "https://example.com/images/emily_davis.jpg",
+    "photo_url": "https://amitjawalkote.github.io/royal/images/ts4.png",
     "flat_number": "D-404",
     "block": "Ascent Tower",
     "testimonial": "Amazing community and superb infrastructure. We are really happy with our decision to invest here.",
