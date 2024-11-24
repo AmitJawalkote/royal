@@ -71,7 +71,7 @@
       },
       "nearby_locations": {
         "schools": [
-          {"name": "Mahesh English School", "distance": "600 M", "time": "2 min"},
+          {"name": "Suresh English School", "distance": "600 M", "time": "2 min"},
           {"name": "St. Joseph High School", "distance": "2.6 KM", "time": "8 min"},
           {"name": "Raj Memorial Medium", "distance": "2.4 KM", "time": "7 min"},
           {"name": "Siddheshwar School", "distance": "2.8 KM", "time": "8 min"},
@@ -186,7 +186,7 @@
       },
       "nearby_locations": {
         "schools": [
-          {"name": "Mahesh English School", "distance": "600 M", "time": "2 min"},
+          {"name": "Ganesh English School", "distance": "600 M", "time": "2 min"},
           {"name": "St. Joseph High School", "distance": "2.6 KM", "time": "8 min"},
           {"name": "Raj Memorial Medium", "distance": "2.4 KM", "time": "7 min"},
           {"name": "Siddheshwar School", "distance": "2.8 KM", "time": "8 min"},
