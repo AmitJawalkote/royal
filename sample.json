@@ -1,16 +1,15 @@
 {
-    
-  "details":[
-     {
-      "site_name":"Jay Prakash heights",
-      "location": "Jankar Nagar, Y Chowk, Near Soni City, Damani Nagar, Solapur-413001",
+  "details": [
+    {
+      "site_name": "Royal Crown",
+      "location": "Royal Crown Apartment, Vishal Nagar Road, near by v.m.mehta high school, Jule, Solapur, Maharashtra, India",
       "coordinates": {
         "latitude": 17.6599,
         "longitude": 75.9064
       },
       "rera_number": "P52600030418",
       "flats": {
-        "types": ["1.5 BHK", "2 BHK"],
+        "types": ["2 BHK"],
         "count": 45
       },
       "shops": {
@@ -23,7 +22,7 @@
           "icon": "https://example.com/icons/cctv.png"
         },
         {
-          "name": "Two Floor Car Parking",
+          "name": "Car Parking",
           "icon": "https://example.com/icons/car_parking.png"
         },
         {
@@ -33,10 +32,6 @@
         {
           "name": "Common Overhead Water Tank",
           "icon": "https://example.com/icons/overhead_tank.png"
-        },
-        {
-          "name": "Driveway",
-          "icon": "https://example.com/icons/driveway.png"
         }
       ],
       "specifications": {
@@ -60,7 +55,13 @@
         "kitchen": {
           "platform": "Straight Cooking Platform in Granite with Stainless Steel Sink & Sill Level.",
           "dado": "Glazed Dado Tiles on Adjacent Wall.",
-          "provisions": ["Exhaust fan", "16 A Fridge point", "Mixer point", "Oven point", "Water Purifier Point"]
+          "provisions": [
+            "Exhaust fan",
+            "16 A Fridge point",
+            "Mixer point",
+            "Oven point",
+            "Water Purifier Point"
+          ]
         },
         "flooring": {
           "living_dining_bedrooms_kitchen": "Vitrified Tiles with Skirting.",
@@ -71,36 +72,41 @@
       },
       "nearby_locations": {
         "schools": [
-          {"name": "Suresh English School", "distance": "600 M", "time": "2 min"},
-          {"name": "St. Joseph High School", "distance": "2.6 KM", "time": "8 min"},
-          {"name": "Raj Memorial Medium", "distance": "2.4 KM", "time": "7 min"},
-          {"name": "Siddheshwar School", "distance": "2.8 KM", "time": "8 min"},
-          {"name": "P. S. English School", "distance": "3.0 KM", "time": "10 min"},
-          {"name": "Central Railway School", "distance": "3.9 KM", "time": "10 min"}
+          {
+            "name": "Indian model school",
+            "distance": "1 KM",
+            "time": "5 min"
+          },
+          {
+            "name": "Bharati vidypeeth",
+            "distance": " 500 M",
+            "time": "2 min"
+          },
+          {
+            "name": "Shanti English Medium school",
+            "distance": "1 KM",
+            "time": "5 min"
+          },
+          { "name": "Shivdare college", "distance": "1 KM", "time": "5 min" },
+          { "name": "ITI College", "distance": "1 KM", "time": "5 min" }
         ],
         "hospitals": [
-          {"name": "CNS Hospital", "distance": "1.6 KM", "time": "5 min"},
-          {"name": "Jagtap Hospital", "distance": "1.0 KM", "time": "5 min"},
-          {"name": "ESI Hospital", "distance": "500 M", "time": "2 min"},
-          {"name": "Suratkal Hospital", "distance": "1.0 KM", "time": "5 min"},
-          {"name": "Narmada Hospital", "distance": "2.7 KM", "time": "8 min"},
-          {"name": "City Hospital", "distance": "4.4 KM", "time": "11 min"},
-          {"name": "Baldawa Hospital", "distance": "2.5 KM", "time": "8 min"},
-          {"name": "Shashwat Hospital", "distance": "1.4 KM", "time": "5 min"}
+          { "name": "Care Hospital", "distance": "1.6 KM", "time": "5 min" },
+          { "name": "Manguli Hospital", "distance": "1.0 KM", "time": "5 min" },
+          { "name": "Kotwal Hospital", "distance": "500 M", "time": "2 min" },
+          { "name": "Apex Hospital", "distance": "1.0 KM", "time": "5 min" },
+          { "name": "Manorama Hospital", "distance": "2.7 KM", "time": "8 min" }
         ],
         "attractions": [
-          {"name": "Gold Gym", "distance": "600 M", "time": "6 min"},
-          {"name": "Value Mandi", "distance": "900 M", "time": "8 min"},
-          {"name": "Oasis Mall", "distance": "1.8 KM", "time": "10 min"},
-          {"name": "Park Choupati", "distance": "3.3 KM", "time": "11 min"},
-          {"name": "Hom Maidan", "distance": "2.8 KM", "time": "12 min"},
-          {"name": "Street Art(HD School)", "distance": "2.9 KM", "time": "12 min"},
-          {"name": "Killa Bagicha", "distance": "2.9 KM", "time": "9 min"},
-          {"name": "Siddheshwar Temple", "distance": "4.3 KM", "time": "14 min"}
+          { "name": "Activ 8", "distance": "600 M", "time": "6 min" },
+          { "name": "Hotel celebration", "distance": "900 M", "time": "8 min" },
+          { "name": "Hotel Aroma", "distance": "1.8 KM", "time": "10 min" },
+          { "name": "Football ground", "distance": "3.3 KM", "time": "11 min" },
+          { "name": "Dawat chowk", "distance": "2.8 KM", "time": "12 min" }
         ]
       },
       "images": [
-        "https://amitjawalkote.github.io/royal/images/rb_jay_prakashheights.jpg",
+        "https://amitjawalkote.github.io/royal/images/rb_royal_crown_01.jpg",
         "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/images%2Fbuilding2.jpg?alt=media"
       ],
       "cutsections": [
@@ -116,33 +122,33 @@
         "website": "www.vijayconstructionsolapur.com"
       }
     },
-     {
-      "site_name":"skyline",
-      "location": "Jankar Nagar, Y Chowk, Near Soni City, Damani Nagar, Solapur-413001",
+    {
+      "site_name": "Swapnshilp",
+      "location": " Gandhi Nagar, Rangraj Nagar, Solapur, Solapur-413001",
       "coordinates": {
         "latitude": 17.6599,
         "longitude": 75.9064
       },
-      "rera_number": "P52600030418",
+      "rera_number": "P52600030489",
       "flats": {
-        "types": ["1.5 BHK", "2 BHK"],
-        "count": 45
+        "types": ["2 BHK"],
+        "count": 28
       },
       "shops": {
         "size_range": "250 - 500 SQFT"
       },
-      "building_infrastructure": "B+G+8",
+      "building_infrastructure": "B+G+7",
       "amenities": [
         {
-          "name": "24x7 CCTV Surveillance",
+          "name": "Children Play Ground",
           "icon": "https://example.com/icons/cctv.png"
         },
         {
-          "name": "Two Floor Car Parking",
+          "name": "Four Wheeler Parking",
           "icon": "https://example.com/icons/car_parking.png"
         },
         {
-          "name": "Separate Underwater Tank for Borewell & Corporation",
+          "name": "Wall compund",
           "icon": "https://example.com/icons/water_tank.png"
         },
         {
@@ -150,7 +156,7 @@
           "icon": "https://example.com/icons/overhead_tank.png"
         },
         {
-          "name": "Driveway",
+          "name": "24x7 CCTV Surveillance",
           "icon": "https://example.com/icons/driveway.png"
         }
       ],
@@ -175,7 +181,13 @@
         "kitchen": {
           "platform": "Straight Cooking Platform in Granite with Stainless Steel Sink & Sill Level.",
           "dado": "Glazed Dado Tiles on Adjacent Wall.",
-          "provisions": ["Exhaust fan", "16 A Fridge point", "Mixer point", "Oven point", "Water Purifier Point"]
+          "provisions": [
+            "Exhaust fan",
+            "16 A Fridge point",
+            "Mixer point",
+            "Oven point",
+            "Water Purifier Point"
+          ]
         },
         "flooring": {
           "living_dining_bedrooms_kitchen": "Vitrified Tiles with Skirting.",
@@ -186,32 +198,186 @@
       },
       "nearby_locations": {
         "schools": [
-          {"name": "Ganesh English School", "distance": "600 M", "time": "2 min"},
-          {"name": "St. Joseph High School", "distance": "2.6 KM", "time": "8 min"},
-          {"name": "Raj Memorial Medium", "distance": "2.4 KM", "time": "7 min"},
-          {"name": "Siddheshwar School", "distance": "2.8 KM", "time": "8 min"},
-          {"name": "P. S. English School", "distance": "3.0 KM", "time": "10 min"},
-          {"name": "Central Railway School", "distance": "3.9 KM", "time": "10 min"}
+          {
+            "name": "WIT Engineering College",
+            "distance": "2 KM",
+            "time": "10 min"
+          },
+          {
+            "name": "Govt. polytechnic",
+            "distance": "2 KM",
+            "time": "10 min"
+          },
+          {
+            "name": "Walchand college",
+            "distance": "2 KM",
+            "time": "10 min"
+          },
+          {
+            "name": "Kadadi school",
+            "distance": "1.5 KM",
+            "time": "8 min"
+          }
         ],
         "hospitals": [
-          {"name": "CNS Hospital", "distance": "1.6 KM", "time": "5 min"},
-          {"name": "Jagtap Hospital", "distance": "1.0 KM", "time": "5 min"},
-          {"name": "ESI Hospital", "distance": "500 M", "time": "2 min"},
-          {"name": "Suratkal Hospital", "distance": "1.0 KM", "time": "5 min"},
-          {"name": "Narmada Hospital", "distance": "2.7 KM", "time": "8 min"},
-          {"name": "City Hospital", "distance": "4.4 KM", "time": "11 min"},
-          {"name": "Baldawa Hospital", "distance": "2.5 KM", "time": "8 min"},
-          {"name": "Shashwat Hospital", "distance": "1.4 KM", "time": "5 min"}
+          { "name": "Civil Hospital", "distance": "3 KM", "time": "15 min" },
+          {
+            "name": "Solapur Hospital",
+            "distance": "2.5 KM",
+            "time": "15 min"
+          },
+          { "name": "Noble Hospital", "distance": "3 M", "time": "15 min" }
         ],
         "attractions": [
-          {"name": "Gold Gym", "distance": "600 M", "time": "6 min"},
-          {"name": "Value Mandi", "distance": "900 M", "time": "8 min"},
-          {"name": "Oasis Mall", "distance": "1.8 KM", "time": "10 min"},
-          {"name": "Park Choupati", "distance": "3.3 KM", "time": "11 min"},
-          {"name": "Hom Maidan", "distance": "2.8 KM", "time": "12 min"},
-          {"name": "Street Art(HD School)", "distance": "2.9 KM", "time": "12 min"},
-          {"name": "Killa Bagicha", "distance": "2.9 KM", "time": "9 min"},
-          {"name": "Siddheshwar Temple", "distance": "4.3 KM", "time": "14 min"}
+          {
+            "name": "Akkalkot road water tank",
+            "distance": "600 M",
+            "time": "5 min"
+          },
+          { "name": "Mahalaxmi temple", "distance": "900 M", "time": "8 min" },
+          {
+            "name": "Markendey garden",
+            "distance": "1.8 KM",
+            "time": "10 min"
+          },
+          { "name": "Hanuman temple", "distance": "3.3 KM", "time": "11 min" }
+        ]
+      },
+      "images": [
+        "https://amitjawalkote.github.io/royal/images/rb_swapnshilp_01.jpg",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/images%2Fbuilding2.jpg?alt=media"
+      ],
+      "cutsections": [
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/cutsections%2Fcutsection1.jpg?alt=media",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/cutsections%2Fcutsection2.jpg?alt=media"
+      ],
+      "2d_images": [
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/2d_images%2F2dimage1.jpg?alt=media",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/2d_images%2F2dimage2.jpg?alt=media"
+      ],
+      "contact_info": {
+        "email": "contact@vijayconstructionsolapur.com",
+        "website": "www.vijayconstructionsolapur.com"
+      }
+    },
+    {
+      "site_name": "Skyline Residency",
+      "location": "Pathrut Chowk, Paccha Peth, Solapur-413001",
+      "coordinates": {
+        "latitude": 17.6599,
+        "longitude": 75.9064
+      },
+      "rera_number": "P52600030419",
+      "flats": {
+        "types": ["1.5 BHK", "2 BHK"],
+        "count": 12
+      },
+      "shops": {
+        "size_range": "250 - 500 SQFT"
+      },
+      "building_infrastructure": "B+G+8",
+      "amenities": [
+        {
+          "name": "24x7 CCTV Surveillance",
+          "icon": "https://example.com/icons/cctv.png"
+        },
+        {
+          "name": "Two Floor Car Parking",
+          "icon": "https://example.com/icons/car_parking.png"
+        },
+        {
+          "name": "Separate Underwater Tank for Borewell & Corporation",
+          "icon": "https://example.com/icons/water_tank.png"
+        },
+        {
+          "name": "Common Overhead Water Tank",
+          "icon": "https://example.com/icons/overhead_tank.png"
+        },
+        {
+          "name": "Lift with Power Backup",
+          "icon": "https://example.com/icons/driveway.png"
+        }
+      ],
+      "specifications": {
+        "structure": "Earthquake resistant RCC Structure with 6”& 4” External & Internal wall respectively.",
+        "windows": "Two Track Aluminium Sliding Window with M.S Safety Grills.",
+        "plumbing": "Concealed Plumbing with Standard Quality Pipes & Accessories with Excellent Bath Fitting.",
+        "plaster": {
+          "internal": "Gypsum Plaster for Ceiling/Neeru Finish Cement Plaster.",
+          "external": "Sand Face Cement Plaster."
+        },
+        "toilet": {
+          "bath_wc": "Combined with Glazed Ceramic Tiles, Dado Up to Lintel Level.",
+          "basin": "One Wash Basin at Appropriate Place."
+        },
+        "paint": {
+          "internal": "Oil Bound Distemper (OBD) for Internal Walls.",
+          "external": "Apex & Ace for External Walls.",
+          "overhead_tank": "Ace Paint for Overhead Water Tank & Parapet Walls."
+        },
+        "electrical": "Concealed Copper Wiring, Adequate Point. TV Point, Master Bedroom AC Point.",
+        "kitchen": {
+          "platform": "Straight Cooking Platform in Granite with Stainless Steel Sink & Sill Level.",
+          "dado": "Glazed Dado Tiles on Adjacent Wall.",
+          "provisions": [
+            "Exhaust fan",
+            "16 A Fridge point",
+            "Mixer point",
+            "Oven point",
+            "Water Purifier Point"
+          ]
+        },
+        "flooring": {
+          "living_dining_bedrooms_kitchen": "Vitrified Tiles with Skirting.",
+          "attached_toilet": "Glazed Dado Tiles.",
+          "master_bedroom": "Wooden Finish Tiles.",
+          "utility_balcony": "Anti-Skid Tiles."
+        }
+      },
+      "nearby_locations": {
+        "schools": [
+          {
+            "name": "WIT Engineering College",
+            "distance": "600 M",
+            "time": "2 min"
+          },
+          {
+            "name": "Walchand college",
+            "distance": "2.6 KM",
+            "time": "8 min"
+          },
+          {
+            "name": "Govt. polytechnic",
+            "distance": "2.4 KM",
+            "time": "7 min"
+          },
+          {
+            "name": "Siddheshwar school",
+            "distance": "2.8 KM",
+            "time": "8 min"
+          }
+        ],
+        "hospitals": [
+          { "name": "Civil hospitsl", "distance": "1 KM", "time": "5 min" },
+          { "name": "Solapur Hospital", "distance": "1.0 KM", "time": "5 min" },
+          { "name": "Noble Hospital", "distance": "500 M", "time": "2 min" }
+        ],
+        "attractions": [
+          { "name": "Rangbhawan chowk", "distance": "600 M", "time": "6 min" },
+          {
+            "name": "Siddheshwar Temple",
+            "distance": "900 M",
+            "time": "8 min"
+          },
+          { "name": "Football ground", "distance": "1.8 KM", "time": "10 min" },
+          { "name": "Park Choupati", "distance": "3.3 KM", "time": "11 min" },
+          { "name": "Hom Maidan", "distance": "2.8 KM", "time": "12 min" },
+
+          {
+            "name": "Siddheshwar Temple",
+            "distance": "4.3 KM",
+            "time": "14 min"
+          }
         ]
       },
       "images": [
@@ -232,16 +398,16 @@
       }
     },
     {
-      "site_name":"Royal crown",
-      "location": "Jankar Nagar, Y Chowk, Near Soni City, Damani Nagar, Solapur-413001",
+      "site_name": "Asscent Tower",
+      "location": "New Paccha Peth, Solapur-413001",
       "coordinates": {
         "latitude": 17.6599,
         "longitude": 75.9064
       },
-      "rera_number": "P52600030418",
+      "rera_number": "P52600030420",
       "flats": {
         "types": ["1.5 BHK", "2 BHK"],
-        "count": 45
+        "count": 12
       },
       "shops": {
         "size_range": "250 - 500 SQFT"
@@ -265,7 +431,7 @@
           "icon": "https://example.com/icons/overhead_tank.png"
         },
         {
-          "name": "Driveway",
+          "name": "Lift with Power Backup",
           "icon": "https://example.com/icons/driveway.png"
         }
       ],
@@ -290,7 +456,13 @@
         "kitchen": {
           "platform": "Straight Cooking Platform in Granite with Stainless Steel Sink & Sill Level.",
           "dado": "Glazed Dado Tiles on Adjacent Wall.",
-          "provisions": ["Exhaust fan", "16 A Fridge point", "Mixer point", "Oven point", "Water Purifier Point"]
+          "provisions": [
+            "Exhaust fan",
+            "16 A Fridge point",
+            "Mixer point",
+            "Oven point",
+            "Water Purifier Point"
+          ]
         },
         "flooring": {
           "living_dining_bedrooms_kitchen": "Vitrified Tiles with Skirting.",
@@ -301,36 +473,52 @@
       },
       "nearby_locations": {
         "schools": [
-          {"name": "Mahesh English School", "distance": "600 M", "time": "2 min"},
-          {"name": "St. Joseph High School", "distance": "2.6 KM", "time": "8 min"},
-          {"name": "Raj Memorial Medium", "distance": "2.4 KM", "time": "7 min"},
-          {"name": "Siddheshwar School", "distance": "2.8 KM", "time": "8 min"},
-          {"name": "P. S. English School", "distance": "3.0 KM", "time": "10 min"},
-          {"name": "Central Railway School", "distance": "3.9 KM", "time": "10 min"}
+          {
+            "name": "WIT Engineering College",
+            "distance": "600 M",
+            "time": "2 min"
+          },
+          {
+            "name": "Walchand college",
+            "distance": "2.6 KM",
+            "time": "8 min"
+          },
+          {
+            "name": "Govt. polytechnic",
+            "distance": "2.4 KM",
+            "time": "7 min"
+          },
+          {
+            "name": "Siddheshwar school",
+            "distance": "2.8 KM",
+            "time": "8 min"
+          }
         ],
         "hospitals": [
-          {"name": "CNS Hospital", "distance": "1.6 KM", "time": "5 min"},
-          {"name": "Jagtap Hospital", "distance": "1.0 KM", "time": "5 min"},
-          {"name": "ESI Hospital", "distance": "500 M", "time": "2 min"},
-          {"name": "Suratkal Hospital", "distance": "1.0 KM", "time": "5 min"},
-          {"name": "Narmada Hospital", "distance": "2.7 KM", "time": "8 min"},
-          {"name": "City Hospital", "distance": "4.4 KM", "time": "11 min"},
-          {"name": "Baldawa Hospital", "distance": "2.5 KM", "time": "8 min"},
-          {"name": "Shashwat Hospital", "distance": "1.4 KM", "time": "5 min"}
+          { "name": "Civil hospitsl", "distance": "1 KM", "time": "5 min" },
+          { "name": "Solapur Hospital", "distance": "1.0 KM", "time": "5 min" },
+          { "name": "Noble Hospital", "distance": "500 M", "time": "2 min" }
         ],
         "attractions": [
-          {"name": "Gold Gym", "distance": "600 M", "time": "6 min"},
-          {"name": "Value Mandi", "distance": "900 M", "time": "8 min"},
-          {"name": "Oasis Mall", "distance": "1.8 KM", "time": "10 min"},
-          {"name": "Park Choupati", "distance": "3.3 KM", "time": "11 min"},
-          {"name": "Hom Maidan", "distance": "2.8 KM", "time": "12 min"},
-          {"name": "Street Art(HD School)", "distance": "2.9 KM", "time": "12 min"},
-          {"name": "Killa Bagicha", "distance": "2.9 KM", "time": "9 min"},
-          {"name": "Siddheshwar Temple", "distance": "4.3 KM", "time": "14 min"}
+          { "name": "Rangbhawan chowk", "distance": "600 M", "time": "6 min" },
+          {
+            "name": "Siddheshwar Temple",
+            "distance": "900 M",
+            "time": "8 min"
+          },
+          { "name": "Football ground", "distance": "1.8 KM", "time": "10 min" },
+          { "name": "Park Choupati", "distance": "3.3 KM", "time": "11 min" },
+          { "name": "Hom Maidan", "distance": "2.8 KM", "time": "12 min" },
+
+          {
+            "name": "Siddheshwar Temple",
+            "distance": "4.3 KM",
+            "time": "14 min"
+          }
         ]
       },
       "images": [
-        "https://amitjawalkote.github.io/royal/images/rb_skyline.jpg",
+        "https://amitjawalkote.github.io/royal/images/rb_accent_tower_01.jpg",
         "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/images%2Fbuilding2.jpg?alt=media"
       ],
       "cutsections": [
@@ -346,7 +534,5 @@
         "website": "www.vijayconstructionsolapur.com"
       }
     }
-  
-  
-]
+  ]
 }
