@@ -1,6 +1,128 @@
 {
   "details": [
     {
+      "site_name": "Royal Heritage",
+      "location": "Royal Heritage Apartment, Vishal Nagar Road, near by v.m.mehta high school, Jule, Solapur, Maharashtra, India",
+      "coordinates": {
+        "latitude": 17.6599,
+        "longitude": 75.9064
+      },
+      "rera_number": "P52600030423",
+      "flats": {
+        "types": ["2 BHK"],
+        "count": 45
+      },
+      "shops": {
+        "size_range": "250 - 500 SQFT"
+      },
+      "building_infrastructure": "B+G+8",
+      "amenities": [
+        {
+          "name": "24x7 CCTV Surveillance",
+          "icon": "https://example.com/icons/cctv.png"
+        },
+        {
+          "name": "Car Parking",
+          "icon": "https://example.com/icons/car_parking.png"
+        },
+        {
+          "name": "Separate Underwater Tank for Borewell & Corporation",
+          "icon": "https://example.com/icons/water_tank.png"
+        },
+        {
+          "name": "Common Overhead Water Tank",
+          "icon": "https://example.com/icons/overhead_tank.png"
+        }
+      ],
+      "specifications": {
+        "structure": "Earthquake resistant RCC Structure with 6”& 4” External & Internal wall respectively.",
+        "windows": "Two Track Aluminium Sliding Window with M.S Safety Grills.",
+        "plumbing": "Concealed Plumbing with Standard Quality Pipes & Accessories with Excellent Bath Fitting.",
+        "plaster": {
+          "internal": "Gypsum Plaster for Ceiling/Neeru Finish Cement Plaster.",
+          "external": "Sand Face Cement Plaster."
+        },
+        "toilet": {
+          "bath_wc": "Combined with Glazed Ceramic Tiles, Dado Up to Lintel Level.",
+          "basin": "One Wash Basin at Appropriate Place."
+        },
+        "paint": {
+          "internal": "Oil Bound Distemper (OBD) for Internal Walls.",
+          "external": "Apex & Ace for External Walls.",
+          "overhead_tank": "Ace Paint for Overhead Water Tank & Parapet Walls."
+        },
+        "electrical": "Concealed Copper Wiring, Adequate Point. TV Point, Master Bedroom AC Point.",
+        "kitchen": {
+          "platform": "Straight Cooking Platform in Granite with Stainless Steel Sink & Sill Level.",
+          "dado": "Glazed Dado Tiles on Adjacent Wall.",
+          "provisions": [
+            "Exhaust fan",
+            "16 A Fridge point",
+            "Mixer point",
+            "Oven point",
+            "Water Purifier Point"
+          ]
+        },
+        "flooring": {
+          "living_dining_bedrooms_kitchen": "Vitrified Tiles with Skirting.",
+          "attached_toilet": "Glazed Dado Tiles.",
+          "master_bedroom": "Wooden Finish Tiles.",
+          "utility_balcony": "Anti-Skid Tiles."
+        }
+      },
+      "nearby_locations": {
+        "schools": [
+          {
+            "name": "Indian model school",
+            "distance": "1 KM",
+            "time": "5 min"
+          },
+          {
+            "name": "Bharati vidypeeth",
+            "distance": " 500 M",
+            "time": "2 min"
+          },
+          {
+            "name": "Shanti English Medium school",
+            "distance": "1 KM",
+            "time": "5 min"
+          },
+          { "name": "Shivdare college", "distance": "1 KM", "time": "5 min" },
+          { "name": "ITI College", "distance": "1 KM", "time": "5 min" }
+        ],
+        "hospitals": [
+          { "name": "Care Hospital", "distance": "1.6 KM", "time": "5 min" },
+          { "name": "Manguli Hospital", "distance": "1.0 KM", "time": "5 min" },
+          { "name": "Kotwal Hospital", "distance": "500 M", "time": "2 min" },
+          { "name": "Apex Hospital", "distance": "1.0 KM", "time": "5 min" },
+          { "name": "Manorama Hospital", "distance": "2.7 KM", "time": "8 min" }
+        ],
+        "attractions": [
+          { "name": "Activ 8", "distance": "600 M", "time": "6 min" },
+          { "name": "Hotel celebration", "distance": "900 M", "time": "8 min" },
+          { "name": "Hotel Aroma", "distance": "1.8 KM", "time": "10 min" },
+          { "name": "Football ground", "distance": "3.3 KM", "time": "11 min" },
+          { "name": "Dawat chowk", "distance": "2.8 KM", "time": "12 min" }
+        ]
+      },
+      "images": [
+        "https://amitjawalkote.github.io/royal/images/rb_royal_heritage_01.jpeg",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/images%2Fbuilding2.jpg?alt=media"
+      ],
+      "cutsections": [
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/cutsections%2Fcutsection1.jpg?alt=media",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/cutsections%2Fcutsection2.jpg?alt=media"
+      ],
+      "2d_images": [
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/2d_images%2F2dimage1.jpg?alt=media",
+        "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/2d_images%2F2dimage2.jpg?alt=media"
+      ],
+      "contact_info": {
+        "email": "contact@vijayconstructionsolapur.com",
+        "website": "www.vijayconstructionsolapur.com"
+      }
+    },
+    {
       "site_name": "Royal Crown",
       "location": "Royal Crown Apartment, Vishal Nagar Road, near by v.m.mehta high school, Jule, Solapur, Maharashtra, India",
       "coordinates": {
@@ -106,7 +228,7 @@
         ]
       },
       "images": [
-        "https://amitjawalkote.github.io/royal/images/rb_royal_crown_01.jpg",
+        "https://amitjawalkote.github.io/royal/images/rb_royal_crown_01.jpeg",
         "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT_ID/o/images%2Fbuilding2.jpg?alt=media"
       ],
       "cutsections": [
